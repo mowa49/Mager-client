@@ -1,5 +1,5 @@
 # Mager-client
-this is a practie project to build a Project-Management App following EdRoh the mager-client is dedicated for client side and front end of the project, also the backend and data base repo  you could as Mager-server
+This is a practice project for building a Project Management App, following EdRoh's guidance. The Mager-client repository focuses on the client side and front-end development of the project. You can find the backend and database components in the Mager-server repository.
 
 # technologies
 Node js, NextJS, Prisma, PostgresSQL, Tailwind, typescript
